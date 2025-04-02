@@ -1,0 +1,5 @@
+h = float(input("Enter Hours : "))
+m = float(input("Enter minute: " ))
+s = float(input("Enter second: "))
+sum = (h*360)+(m*60)+(s*1)
+print("total is",sum)
